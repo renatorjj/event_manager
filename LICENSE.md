@@ -1,0 +1,1 @@
+Event Manager copyright © 2021-2021 Renato Roberto de Jesus Junior

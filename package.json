@@ -1,0 +1,18 @@
+{
+  "name": "com.rrjj.eventmanager",
+  "version": "1.0.0",
+  "displayName": "Event Manager",
+  "description": "This is an event manager developed based on the observer project pattern.",
+  "unity": "2017.1",
+  "keywords": [
+    "event",
+    "manager",
+    "observer",
+    "signal"
+  ],
+  "author": {
+    "name": "Renato Roberto de Jesus Junior",
+    "email": "renatorrjj@gmail.com",
+    "url": "https://www.linkedin.com/in/renato-junior-487a95a7"
+  }
+}
