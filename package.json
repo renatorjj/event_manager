@@ -4,6 +4,9 @@
   "displayName": "Event Manager",
   "description": "This is an event manager developed based on the observer project pattern.",
   "unity": "2017.1",
+  "dependencies": {
+    "com.rrjj.eventmanager": "https://github.com/renatorjj/event_manager.git"
+  },
   "keywords": [
     "event",
     "manager",
